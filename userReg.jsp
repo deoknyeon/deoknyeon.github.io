@@ -66,7 +66,7 @@ nav ul {margin:0; padding:0;} nav ul li {display:inline; margin:5px;}
 
 <label for="stud_name">이름</label> 
 
-<label class="id_form"><%=request.getParameter("stud_name")%></label> <br/> 
+<label class="id_form">김덕년</label> <br/> 
 
 <label for="stud_email">이메일</label> 
 
